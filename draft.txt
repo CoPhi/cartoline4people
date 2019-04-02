@@ -1,0 +1,71 @@
+//metadati//
+titoloDigitale:
+annotatore:
+idCartolina:
+lingua:
+autore:
+editore:
+luogodistampa:
+datastampa:
+
+//body
+titoloCartolina:
+descrizioneimmagine:
+
+corpoCartolina:
+  --dataInvio:
+  --luogoInvio:
+  --saluto:
+  --luogo:
+       --città:
+       --regione:
+       --nazione:
+  --data:
+  --organizzazione:
+  --persona:
+  --firma:
+  --destinatario:
+    --nome:
+    --cognome:
+    --indirizzo:
+        --via:
+        --civico:
+        --luogo:
+timbro:
+   --data:
+   --luogo:
+   --descrizione:
+francobollo:
+   --data:
+   --descrizione:
+stampa:
+  -descrizione
+parolamancante:
+illeggibile:
+danneggiato:
+parolastraniera:
+   --lingua:
+parolanonstandard:
+tempo:
+cancellatura:
+abbreviazione:
+citazione:
+aggiunteseguenti:
+caratterenonstandard:
+  --descrizione:
+postscriptum:
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
